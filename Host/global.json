@@ -1,0 +1,3 @@
+{
+    "projects": ["../DataLayer", "../DataLayer.EF", "ConsoleApplication"]
+}
