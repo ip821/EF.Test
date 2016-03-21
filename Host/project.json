@@ -31,7 +31,8 @@
         "System.Threading": "4.0.11-beta-23516",
         "System.Runtime": "4.0.20",
         "System.ComponentModel": "4.0.0",
-        "ClassLibrary": "1.0.0"
+        "DataLayer.Contract": "1.0.0",
+        "Core": "1.0.0"
       }
     }
   }

@@ -1,6 +1,5 @@
 {
   "version": "1.0.0-*",
-  "name": "ipClassLibrary",
   "description": "ClassLibrary Class Library",
   "authors": [ "Class Library template" ],
   "tags": [""],
